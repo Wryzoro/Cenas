@@ -1,0 +1,340 @@
+Jornada 1:
+  AVS vs Vitoria SC
+  Sporting vs Casa Pia
+  Benfica vs Famalicao
+  Rio Ave vs Moreirense
+  Estoril vs Estrela Da Amadora
+  Farense vs Boavista
+  Santa Clara vs Gil Vicente
+  Porto vs Nacional
+  Arouca vs Braga
+Jornada 2:
+  Casa Pia vs AVS
+  Famalicao vs Vitoria SC
+  Moreirense vs Sporting
+  Estrela Da Amadora vs Benfica
+  Boavista vs Rio Ave
+  Gil Vicente vs Estoril
+  Nacional vs Farense
+  Braga vs Santa Clara
+  Arouca vs Porto
+Jornada 3:
+  AVS vs Famalicao
+  Casa Pia vs Moreirense
+  Vitoria SC vs Estrela Da Amadora
+  Sporting vs Boavista
+  Benfica vs Gil Vicente
+  Rio Ave vs Nacional
+  Estoril vs Braga
+  Farense vs Arouca
+  Santa Clara vs Porto
+Jornada 4:
+  Moreirense vs AVS
+  Estrela Da Amadora vs Famalicao
+  Boavista vs Casa Pia
+  Gil Vicente vs Vitoria SC
+  Nacional vs Sporting
+  Braga vs Benfica
+  Arouca vs Rio Ave
+  Porto vs Estoril
+  Santa Clara vs Farense
+Jornada 5:
+  AVS vs Estrela Da Amadora
+  Moreirense vs Boavista
+  Famalicao vs Gil Vicente
+  Casa Pia vs Nacional
+  Vitoria SC vs Braga
+  Sporting vs Arouca
+  Benfica vs Porto
+  Rio Ave vs Santa Clara
+  Estoril vs Farense
+Jornada 6:
+  Boavista vs AVS
+  Gil Vicente vs Estrela Da Amadora
+  Nacional vs Moreirense
+  Braga vs Famalicao
+  Arouca vs Casa Pia
+  Porto vs Vitoria SC
+  Santa Clara vs Sporting
+  Farense vs Benfica
+  Estoril vs Rio Ave
+Jornada 7:
+  AVS vs Gil Vicente
+  Boavista vs Nacional
+  Estrela Da Amadora vs Braga
+  Moreirense vs Arouca
+  Famalicao vs Porto
+  Casa Pia vs Santa Clara
+  Vitoria SC vs Farense
+  Sporting vs Estoril
+  Benfica vs Rio Ave
+Jornada 8:
+  Nacional vs AVS
+  Braga vs Gil Vicente
+  Arouca vs Boavista
+  Porto vs Estrela Da Amadora
+  Santa Clara vs Moreirense
+  Farense vs Famalicao
+  Estoril vs Casa Pia
+  Rio Ave vs Vitoria SC
+  Benfica vs Sporting
+Jornada 9:
+  AVS vs Braga
+  Nacional vs Arouca
+  Gil Vicente vs Porto
+  Boavista vs Santa Clara
+  Estrela Da Amadora vs Farense
+  Moreirense vs Estoril
+  Famalicao vs Rio Ave
+  Casa Pia vs Benfica
+  Vitoria SC vs Sporting
+Jornada 10:
+  Arouca vs AVS
+  Porto vs Braga
+  Santa Clara vs Nacional
+  Farense vs Gil Vicente
+  Estoril vs Boavista
+  Rio Ave vs Estrela Da Amadora
+  Benfica vs Moreirense
+  Sporting vs Famalicao
+  Vitoria SC vs Casa Pia
+Jornada 11:
+  AVS vs Porto
+  Arouca vs Santa Clara
+  Braga vs Farense
+  Nacional vs Estoril
+  Gil Vicente vs Rio Ave
+  Boavista vs Benfica
+  Estrela Da Amadora vs Sporting
+  Moreirense vs Vitoria SC
+  Famalicao vs Casa Pia
+Jornada 12:
+  Santa Clara vs AVS
+  Farense vs Porto
+  Estoril vs Arouca
+  Rio Ave vs Braga
+  Benfica vs Nacional
+  Sporting vs Gil Vicente
+  Vitoria SC vs Boavista
+  Casa Pia vs Estrela Da Amadora
+  Famalicao vs Moreirense
+Jornada 13:
+  AVS vs Farense
+  Santa Clara vs Estoril
+  Porto vs Rio Ave
+  Arouca vs Benfica
+  Braga vs Sporting
+  Nacional vs Vitoria SC
+  Gil Vicente vs Casa Pia
+  Boavista vs Famalicao
+  Estrela Da Amadora vs Moreirense
+Jornada 14:
+  Estoril vs AVS
+  Rio Ave vs Farense
+  Benfica vs Santa Clara
+  Sporting vs Porto
+  Vitoria SC vs Arouca
+  Casa Pia vs Braga
+  Famalicao vs Nacional
+  Moreirense vs Gil Vicente
+  Estrela Da Amadora vs Boavista
+Jornada 15:
+  AVS vs Rio Ave
+  Estoril vs Benfica
+  Farense vs Sporting
+  Santa Clara vs Vitoria SC
+  Porto vs Casa Pia
+  Arouca vs Famalicao
+  Braga vs Moreirense
+  Nacional vs Estrela Da Amadora
+  Gil Vicente vs Boavista
+Jornada 16:
+  Benfica vs AVS
+  Sporting vs Rio Ave
+  Vitoria SC vs Estoril
+  Casa Pia vs Farense
+  Famalicao vs Santa Clara
+  Moreirense vs Porto
+  Estrela Da Amadora vs Arouca
+  Boavista vs Braga
+  Gil Vicente vs Nacional
+Jornada 17:
+  AVS vs Sporting
+  Benfica vs Vitoria SC
+  Rio Ave vs Casa Pia
+  Estoril vs Famalicao
+  Farense vs Moreirense
+  Santa Clara vs Estrela Da Amadora
+  Porto vs Boavista
+  Arouca vs Gil Vicente
+  Braga vs Nacional
+Jornada 18:
+  Vitoria SC vs AVS
+  Casa Pia vs Sporting
+  Famalicao vs Benfica
+  Moreirense vs Rio Ave
+  Estrela Da Amadora vs Estoril
+  Boavista vs Farense
+  Gil Vicente vs Santa Clara
+  Nacional vs Porto
+  Braga vs Arouca
+Jornada 19:
+  AVS vs Casa Pia
+  Vitoria SC vs Famalicao
+  Sporting vs Moreirense
+  Benfica vs Estrela Da Amadora
+  Rio Ave vs Boavista
+  Estoril vs Gil Vicente
+  Farense vs Nacional
+  Santa Clara vs Braga
+  Porto vs Arouca
+Jornada 20:
+  Famalicao vs AVS
+  Moreirense vs Casa Pia
+  Estrela Da Amadora vs Vitoria SC
+  Boavista vs Sporting
+  Gil Vicente vs Benfica
+  Nacional vs Rio Ave
+  Braga vs Estoril
+  Arouca vs Farense
+  Porto vs Santa Clara
+Jornada 21:
+  AVS vs Moreirense
+  Famalicao vs Estrela Da Amadora
+  Casa Pia vs Boavista
+  Vitoria SC vs Gil Vicente
+  Sporting vs Nacional
+  Benfica vs Braga
+  Rio Ave vs Arouca
+  Estoril vs Porto
+  Farense vs Santa Clara
+Jornada 22:
+  Estrela Da Amadora vs AVS
+  Boavista vs Moreirense
+  Gil Vicente vs Famalicao
+  Nacional vs Casa Pia
+  Braga vs Vitoria SC
+  Arouca vs Sporting
+  Porto vs Benfica
+  Santa Clara vs Rio Ave
+  Farense vs Estoril
+Jornada 23:
+  AVS vs Boavista
+  Estrela Da Amadora vs Gil Vicente
+  Moreirense vs Nacional
+  Famalicao vs Braga
+  Casa Pia vs Arouca
+  Vitoria SC vs Porto
+  Sporting vs Santa Clara
+  Benfica vs Farense
+  Rio Ave vs Estoril
+Jornada 24:
+  Gil Vicente vs AVS
+  Nacional vs Boavista
+  Braga vs Estrela Da Amadora
+  Arouca vs Moreirense
+  Porto vs Famalicao
+  Santa Clara vs Casa Pia
+  Farense vs Vitoria SC
+  Estoril vs Sporting
+  Rio Ave vs Benfica
+Jornada 25:
+  AVS vs Nacional
+  Gil Vicente vs Braga
+  Boavista vs Arouca
+  Estrela Da Amadora vs Porto
+  Moreirense vs Santa Clara
+  Famalicao vs Farense
+  Casa Pia vs Estoril
+  Vitoria SC vs Rio Ave
+  Sporting vs Benfica
+Jornada 26:
+  Braga vs AVS
+  Arouca vs Nacional
+  Porto vs Gil Vicente
+  Santa Clara vs Boavista
+  Farense vs Estrela Da Amadora
+  Estoril vs Moreirense
+  Rio Ave vs Famalicao
+  Benfica vs Casa Pia
+  Sporting vs Vitoria SC
+Jornada 27:
+  AVS vs Arouca
+  Braga vs Porto
+  Nacional vs Santa Clara
+  Gil Vicente vs Farense
+  Boavista vs Estoril
+  Estrela Da Amadora vs Rio Ave
+  Moreirense vs Benfica
+  Famalicao vs Sporting
+  Casa Pia vs Vitoria SC
+Jornada 28:
+  Porto vs AVS
+  Santa Clara vs Arouca
+  Farense vs Braga
+  Estoril vs Nacional
+  Rio Ave vs Gil Vicente
+  Benfica vs Boavista
+  Sporting vs Estrela Da Amadora
+  Vitoria SC vs Moreirense
+  Casa Pia vs Famalicao
+Jornada 29:
+  AVS vs Santa Clara
+  Porto vs Farense
+  Arouca vs Estoril
+  Braga vs Rio Ave
+  Nacional vs Benfica
+  Gil Vicente vs Sporting
+  Boavista vs Vitoria SC
+  Estrela Da Amadora vs Casa Pia
+  Moreirense vs Famalicao
+Jornada 30:
+  Farense vs AVS
+  Estoril vs Santa Clara
+  Rio Ave vs Porto
+  Benfica vs Arouca
+  Sporting vs Braga
+  Vitoria SC vs Nacional
+  Casa Pia vs Gil Vicente
+  Famalicao vs Boavista
+  Moreirense vs Estrela Da Amadora
+Jornada 31:
+  AVS vs Estoril
+  Farense vs Rio Ave
+  Santa Clara vs Benfica
+  Porto vs Sporting
+  Arouca vs Vitoria SC
+  Braga vs Casa Pia
+  Nacional vs Famalicao
+  Gil Vicente vs Moreirense
+  Boavista vs Estrela Da Amadora
+Jornada 32:
+  Rio Ave vs AVS
+  Benfica vs Estoril
+  Sporting vs Farense
+  Vitoria SC vs Santa Clara
+  Casa Pia vs Porto
+  Famalicao vs Arouca
+  Moreirense vs Braga
+  Estrela Da Amadora vs Nacional
+  Boavista vs Gil Vicente
+Jornada 33:
+  AVS vs Benfica
+  Rio Ave vs Sporting
+  Estoril vs Vitoria SC
+  Farense vs Casa Pia
+  Santa Clara vs Famalicao
+  Porto vs Moreirense
+  Arouca vs Estrela Da Amadora
+  Braga vs Boavista
+  Nacional vs Gil Vicente
+Jornada 34:
+  Sporting vs AVS
+  Vitoria SC vs Benfica
+  Casa Pia vs Rio Ave
+  Famalicao vs Estoril
+  Moreirense vs Farense
+  Estrela Da Amadora vs Santa Clara
+  Boavista vs Porto
+  Gil Vicente vs Arouca
+  Nacional vs Braga
